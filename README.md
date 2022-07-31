@@ -43,7 +43,7 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/subtleai/count.svg" />  
+  <img src="https://profile-counter.glitch.me/JavohirIsoqjonov/count.svg" />  
 </p>
    
   
